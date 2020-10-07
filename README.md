@@ -1,2 +1,2 @@
 # INFO501
-Numération zt algo
+Numération et algo
